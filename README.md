@@ -24,4 +24,4 @@ A modern, highly interactive, and responsive Task Manager application built to d
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/allahverdi-dev/task-manager-pro.git](https://github.com/allahverdi-dev/task-manager.git)
+   git clone [https://github.com/allahverdi-dev/task-manager.git](https://github.com/allahverdi-dev/task-manager.git)
